@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tiptap/extension-bubble-menu": "^2.1.7",
+    "@tiptap/extension-code-block-lowlight": "^2.0.4",
+    "lowlight": "^2.9.0"
+  }
+}
